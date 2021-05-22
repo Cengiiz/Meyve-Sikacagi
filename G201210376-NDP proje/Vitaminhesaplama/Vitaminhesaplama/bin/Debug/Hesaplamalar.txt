@@ -1,0 +1,72 @@
+--Portakal hesaplamalari--
+Agirlik:103
+Verim:56
+Yeni Agirlik:57
+Portakalda ki 100 gr A vitamin degeri=225
+Portakalda ki 100 gr C vitamin degeri=45
+VitaminA=128 iu
+VitaminC=25 mg
+--Mandlina hesaplamalari--
+Agirlik:111
+Verim:62
+Yeni Agirlik:68
+Mandalinadaki ki 100 gr A vitamin degeri=681
+Mandalinadaki 100 gr C vitamin degeri=26
+VitaminA=463 iu
+VitaminC=17 mg
+--Mandlina hesaplamalari--
+Agirlik:106
+Verim:59
+Yeni Agirlik:62
+Mandalinadaki ki 100 gr A vitamin degeri=681
+Mandalinadaki 100 gr C vitamin degeri=26
+VitaminA=422 iu
+VitaminC=16 mg
+--Mandlina hesaplamalari--
+Agirlik:112
+Verim:64
+Yeni Agirlik:71
+Mandalinadaki ki 100 gr A vitamin degeri=681
+Mandalinadaki 100 gr C vitamin degeri=26
+VitaminA=483 iu
+VitaminC=18 mg
+--Portakal hesaplamalari--
+Agirlik:112
+Verim:64
+Yeni Agirlik:71
+Portakalda ki 100 gr A vitamin degeri=225
+Portakalda ki 100 gr C vitamin degeri=45
+VitaminA=159 iu
+VitaminC=31 mg
+--Cilegin hesaplamalari--
+Agirlik:102
+Verim:89
+Yeni Agirlik:90
+Armutta ki 100 gr A vitamin degeri=25
+Armutta ki 100 gr C vitamin degeri=5
+VitaminA=22 iu
+VitaminC=4 mg
+--Greyfurt hesaplamalari--
+Agirlik:106
+Verim:59
+Yeni Agirlik:62
+Armutta ki 100 gr A vitamin degeri=3
+Armutta ki 100 gr C vitamin degeri=44
+VitaminA=1 iu
+VitaminC=27 mg
+--Mandlina hesaplamalari--
+Agirlik:106
+Verim:59
+Yeni Agirlik:62
+Mandalinadaki ki 100 gr A vitamin degeri=681
+Mandalinadaki 100 gr C vitamin degeri=26
+VitaminA=422 iu
+VitaminC=16 mg
+--Cilegin hesaplamalari--
+Agirlik:78
+Verim:82
+Yeni Agirlik:63
+Armutta ki 100 gr A vitamin degeri=25
+Armutta ki 100 gr C vitamin degeri=5
+VitaminA=15 iu
+VitaminC=3 mg

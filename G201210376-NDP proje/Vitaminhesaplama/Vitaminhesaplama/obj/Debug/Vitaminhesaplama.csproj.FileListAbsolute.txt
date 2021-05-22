@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\obj\Debug\Vitaminhesaplama.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\obj\Debug\Vitaminhesaplama.Form1.resources
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\obj\Debug\Vitaminhesaplama.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\obj\Debug\Vitaminhesaplama.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\obj\Debug\Vitaminhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\bin\Debug\Vitaminhesaplama.exe.config
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\bin\Debug\Vitaminhesaplama.exe
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\bin\Debug\Vitaminhesaplama.pdb
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\obj\Debug\Vitaminhesaplama.exe
+C:\Users\Lenovo\Desktop\NDP proje\Vitaminhesaplama\Vitaminhesaplama\obj\Debug\Vitaminhesaplama.pdb
